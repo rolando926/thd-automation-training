@@ -7,7 +7,7 @@ public class PrintGrade {
     public static void main(String[] args){
         byte test_score;
 
-        test_score = 100;
+        test_score = 59;
 
         if (test_score >= 90){
             System.out.println("Grade is A.");
@@ -20,9 +20,9 @@ public class PrintGrade {
         }
         else if (test_score >=60 && test_score < 70){
             System.out.println("Grade is D.");
-        }
+        }/*
         else{
             System.out.println("Grade is F.");
-        }
+        }*/
     }
 }
