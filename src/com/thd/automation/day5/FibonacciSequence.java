@@ -12,11 +12,11 @@ public class FibonacciSequence {
             fibN = Integer.parseInt(args[0]);
         }
         else{
-            fibN = 10;
+            fibN = 100;
         }
 
         // Declare and set array length
-        int[] fib = new int[fibN+1];
+        double[] fib = new double[fibN+1];
 
         // Set first two values of Fibonacci
         fib[0] = 0;
