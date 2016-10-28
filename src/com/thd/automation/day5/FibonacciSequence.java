@@ -8,22 +8,19 @@ public class FibonacciSequence {
         int fibN;
 
         // Get the number from the main arguments or if not provided from the program
-        if (args.length == 0){
-            fibN = 10;
+        if (args.length != 0){
+            fibN = Integer.parseInt(args[0]);
         }
         else{
-            fibN = Integer.parseInt(args[0]);
+            fibN = 10;
         }
 
         // Declare and set array length
         int[] fib = new int[fibN+1];
 
         // Set first two values of Fibonacci
-        if (fibN == 0) {
-            fib[0] = 0;
-        }
-        else {
-            fib[0] = 0;
+        fib[0] = 0;
+        if (fibN >= 1) {
             fib[1] = 1;
         }
 
