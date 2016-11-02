@@ -12,13 +12,17 @@ public class StaticClass {
     }
 
     public void print(){
+        int x = 3;
+        int y = 3;
         System.out.println("x="+this.x+" y="+this.y);
         increaseCounters();
     }
 
     public void increaseCounters(){
-        x++;
-        y++;
+        int x = 0;
+        int y = 0;
+        this.x++;
+        this.y++;
     }
 
 }

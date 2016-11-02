@@ -10,6 +10,6 @@ public class StaticClassMain {
         StaticClass sClass2 = new StaticClass();
         StaticClass sClass3 = new StaticClass();
 
-        System.out.println("I can extract the value of X directly: "+StaticClass.x);
+        //System.out.println("I can extract the value of X directly: "+x);
     }
 }
