@@ -1,4 +1,4 @@
-package com.thd.automation.day4;
+package com.thd.automation.week1.day4;
 
 /**
  * Created by rrolando on 10/27/16.
