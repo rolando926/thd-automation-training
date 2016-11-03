@@ -9,14 +9,13 @@ public class PrintMethod {
         String str1 = "My name is not of your business!";
         String str2 = "My name is of your business!";
 
-        PrintClass myPrintCLass = new PrintClass();
+        UtilityClass myPrintCLass = new UtilityClass();
         myPrintCLass.print("My name is Rolando.");
         myPrintCLass.print(str1,str2);
 
-        FindArea myFindArea = new FindArea();
+        UtilityClass myFindArea = new UtilityClass();
         double newA = myFindArea.findArea(2.2,3.4);
         myPrintCLass.print(newA);
-        //System.out.println("Area = "+newA);
     }
 
 

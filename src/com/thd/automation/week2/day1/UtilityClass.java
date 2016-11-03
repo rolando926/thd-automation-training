@@ -3,7 +3,7 @@ package com.thd.automation.week2.day1;
 /**
  * Created by rrolando on 11/2/16.
  */
-public class PrintClass {
+public class UtilityClass {
     public void print(String text){
         System.out.println(text);
     }
@@ -15,5 +15,11 @@ public class PrintClass {
 
     public void print(double value){
         System.out.println(value);
+    }
+
+    public double findArea(double height, double length){
+        double area;
+        area = height * length;
+        return area;
     }
 }
