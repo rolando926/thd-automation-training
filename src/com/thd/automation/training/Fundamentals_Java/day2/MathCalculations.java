@@ -1,4 +1,4 @@
-package com.thd.automation.week1.day2;
+package com.thd.automation.training.Fundamentals_Java.day2;
 
 /**
  * Created by rrolando on 10/25/16.
