@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="992e202b-2cf6-48b0-97b9-6798a7f48948" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Class.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SumOverloading.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingConstructors.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SwitchStatement.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/RandomNumber.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/RandomNumber.java" />
     </list>
     <ignored path="JavaFundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +39,8 @@
       <file leaf-file-name="OverloadingMethod.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7483731">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.29284164">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -879,7 +874,7 @@
       <workItem from="1478097651747" duration="2193000" />
       <workItem from="1478113863206" duration="716000" />
       <workItem from="1478114678161" duration="7128000" />
-      <workItem from="1478183634878" duration="7601000" />
+      <workItem from="1478183634878" duration="7713000" />
     </task>
     <task id="LOCAL-00001" summary="Add Weeks 1 Exercises">
       <created>1477613124476</created>
@@ -941,11 +936,17 @@
       <option name="project" value="LOCAL" />
       <updated>1478132798961</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Refactor some methods and classes">
+      <created>1478215024383</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1478215024384</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52387000" />
+    <option name="totallyTimeSpent" value="52499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
@@ -961,7 +962,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3141655" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25608012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25608012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1395,8 +1396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7483731">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.29284164">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>

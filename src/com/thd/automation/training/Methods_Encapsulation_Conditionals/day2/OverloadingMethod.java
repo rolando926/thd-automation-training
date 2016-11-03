@@ -8,7 +8,6 @@ public class OverloadingMethod {
     public static void main(String[] args) {
         int x = 1;
         double y = 1.1;
-        double randomNumber;
 
         SumOverloading mySum = new SumOverloading();
 
