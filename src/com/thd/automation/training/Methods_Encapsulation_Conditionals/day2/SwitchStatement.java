@@ -3,7 +3,7 @@ package com.thd.automation.training.Methods_Encapsulation_Conditionals.day2;
 /**
  * Created by rrolando on 11/2/16.
  */
-public class OverloadingConstructors {
+public class SwitchStatement {
 
     public static void main(String[] args){
         int month = 10;
@@ -27,6 +27,8 @@ public class OverloadingConstructors {
             case 11:
                 System.out.println("This is a 30st month.");
                 break;
+            default:
+                System.out.println("Invalid month!");
         }
     }
 
