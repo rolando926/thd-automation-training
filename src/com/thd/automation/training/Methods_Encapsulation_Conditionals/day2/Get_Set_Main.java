@@ -24,6 +24,8 @@ public class Get_Set_Main {
         myGetSet2.setX(9);
         System.out.println("myGetSet2 setX = "+myGetSet2.getX());
 
+        System.out.println("-----------");
+        System.out.println("myGetSet1 getX = "+myGetSet1.getX());
 
     }
 }

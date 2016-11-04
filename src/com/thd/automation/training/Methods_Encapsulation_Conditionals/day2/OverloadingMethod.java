@@ -17,6 +17,6 @@ public class OverloadingMethod {
 
         mySum.sum(1,1.1);
 
-        mySum.sum(x,1);
+        mySum.sum(x,y);
     }
 }

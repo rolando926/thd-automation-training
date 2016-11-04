@@ -5,7 +5,7 @@ package com.thd.automation.training.Methods_Encapsulation_Conditionals.day2;
  */
 public class Get_Set_Class {
 
-    private int x=1;
+    int x=1;
 
     public int getX(){
         return x;
