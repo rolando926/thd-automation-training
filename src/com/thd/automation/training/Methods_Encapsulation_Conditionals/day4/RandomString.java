@@ -7,16 +7,14 @@ public class RandomString {
 
     private int limit;
 
-    public RandomString(){
-        this.limit = 10;
-    }
+    public RandomString(int i){this.limit = i;}
 
     public int getLimit(){
         return limit;
     }
 
     public void setLimit(int value){
-        if (value > 0 && value < 11){
+        if (value > 0 && value < 7){
             limit = value;
         }
     }

@@ -6,7 +6,7 @@ package com.thd.automation.training.Methods_Encapsulation_Conditionals.day4;
 public class RandomStringGenerator {
     public static void main(String[] args){
 
-        RandomString str = new RandomString();
+        RandomString str = new RandomString(6);
 
         str.setLimit(5);
         System.out.println("The new random "+ str.getLimit() +" character string is: "+str.randomString());
