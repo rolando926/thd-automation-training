@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="992e202b-2cf6-48b0-97b9-6798a7f48948" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day4/RegexExtractValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day4/RegexMatchValue.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClass.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClassMain.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClassMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SumOverloading.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SumOverloading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomString.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomStringGenerator.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomStringGenerator.java" />
     </list>
     <ignored path="JavaFundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -883,7 +876,7 @@
       <workItem from="1478272929927" duration="4175000" />
       <workItem from="1478291917576" duration="1873000" />
       <workItem from="1478533898916" duration="4541000" />
-      <workItem from="1478640147294" duration="12147000" />
+      <workItem from="1478640147294" duration="12166000" />
     </task>
     <task id="LOCAL-00001" summary="Add Weeks 1 Exercises">
       <created>1477613124476</created>
@@ -969,11 +962,17 @@
       <option name="project" value="LOCAL" />
       <updated>1478561336972</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding week 3, day 4">
+      <created>1478818563314</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1478818563314</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75649000" />
+    <option name="totallyTimeSpent" value="75668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="816" extended-state="0" />
@@ -1014,7 +1013,8 @@
     <MESSAGE value="Some minor fixes" />
     <MESSAGE value="Day 5 week 2" />
     <MESSAGE value="Adding week 3, day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding week 3, day 1" />
+    <MESSAGE value="Adding week 3, day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding week 3, day 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
