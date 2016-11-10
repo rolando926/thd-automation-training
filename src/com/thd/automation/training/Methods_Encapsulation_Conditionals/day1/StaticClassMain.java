@@ -7,9 +7,12 @@ public class StaticClassMain {
 
     public static void main(String[] args) {
         StaticClass sClass1 = new StaticClass();
+        System.out.println(sClass1.y);
         StaticClass sClass2 = new StaticClass();
+        System.out.println(sClass1.y);
         StaticClass sClass3 = new StaticClass();
+        System.out.println(sClass1.y);
 
-        //System.out.println("I can extract the value of X directly: "+x);
+        //System.out.println("I can extract the value of X directly: "+sClass1.x);
     }
 }

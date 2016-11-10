@@ -7,22 +7,26 @@ public class RandomString {
 
     private int limit;
 
-    public RandomString(int i){this.limit = i;}
+    public RandomString(){this.limit = 10;}
 
     public int getLimit(){
         return limit;
     }
 
     public void setLimit(int value){
-        if (value > 0 && value < 7){
+        if (value > 0 && value < 11){
             limit = value;
         }
     }
 
     public String randomString() {
         String str = "";
+
         for (int i = 0; i < limit; i++) {
             switch ((int) (Math.random() * 26)) {
+                case 0:
+                    str+= "*";
+                    break;
                 case 1:
                     str += "A";
                     break;

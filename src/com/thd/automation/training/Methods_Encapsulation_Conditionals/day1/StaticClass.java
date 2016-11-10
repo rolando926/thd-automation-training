@@ -19,8 +19,8 @@ public class StaticClass {
     }
 
     public void increaseCounters(){
-        int x = 0;
-        int y = 0;
+        //int x = 0;
+        //int y = 0;
         this.x++;
         this.y++;
     }

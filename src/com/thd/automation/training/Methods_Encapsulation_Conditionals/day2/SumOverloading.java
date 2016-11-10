@@ -12,7 +12,5 @@ public class SumOverloading {
         System.out.println("Sum Double ="+(val1+val2));
     }
 
-    public void sum(double val1, int val2){
-        System.out.println("Sum Mix ="+(val1+val2));
-    }
+    public void sum(double val1, int val2){System.out.println("Sum Mix ="+(val1+val2));}
 }
