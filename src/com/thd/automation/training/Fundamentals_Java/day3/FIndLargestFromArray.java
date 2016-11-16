@@ -16,7 +16,7 @@ public class FIndLargestFromArray {
                 largest = arrNumbers[i];
             }
             i++;
-        }while(i <= size);
+        }while(i < size);
         System.out.print("Largest number is: "+largest);
     }
 }

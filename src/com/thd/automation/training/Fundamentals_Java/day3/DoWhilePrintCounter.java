@@ -5,7 +5,7 @@ package com.thd.automation.training.Fundamentals_Java.day3;
  */
 public class DoWhilePrintCounter {
     public static void main(String[] args){
-        int i = 10;
+        int i = 0;
         do{
             System.out.println("Counter = "+i);
             i++;

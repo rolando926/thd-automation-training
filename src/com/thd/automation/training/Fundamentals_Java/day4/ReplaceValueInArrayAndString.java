@@ -21,6 +21,7 @@ public class ReplaceValueInArrayAndString {
         System.out.println(newString+"\n");
 
 
+
         // Method 2: Using the String to Array method
         char[] chArray = str.toCharArray();
         int size = chArray.length;
