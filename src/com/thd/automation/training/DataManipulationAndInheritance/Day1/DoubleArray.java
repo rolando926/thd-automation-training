@@ -4,11 +4,11 @@ package com.thd.automation.training.DataManipulationAndInheritance.Day1;
  * Created by rrolando on 11/15/16.
  */
 public class DoubleArray {
-    final static int ROW_LIMIT = 5;
-    final static int COL_LIMIT = 4;
+    final static int ROW_LIMIT = 10;
+    final static int COL_LIMIT = 10;
 
     public static void main(String[] args) {
-        String[][] valueArray = new String[5][4];
+        String[][] valueArray = new String[ROW_LIMIT][COL_LIMIT];
 
         //Assign counter value to double array
         for(int row = 0; row < ROW_LIMIT; row++){
