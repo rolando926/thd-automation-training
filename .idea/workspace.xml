@@ -1,16 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaFundamentals:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="992e202b-2cf6-48b0-97b9-6798a7f48948" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day3/ArrayRegex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Clothing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Returnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Trousers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/AreaAndVolume.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/Calculate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/CalculateAreaAndPerimeterFromFigure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/AreaAndVolume.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/FindArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/MathMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/ReplaceCharInString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/Utilities.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Clothing.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Returnable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Trousers.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/AreaAndVolume.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/FindArea.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/MathMethods.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/ReplaceCharInString.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day1/DoubleArray.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day1/DoubleArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/SequentialExtesion.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/SequentialExtesion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/customer.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/customer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/shirt.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/shirt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/store.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/store.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day3/ArrayRegex.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ArrayRegex.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/HelloWorld.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/HelloWorld.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/MathCalculations.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/MathCalculations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/PrintGrade.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/PrintGrade.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/ArrayNumSum.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/ArrayNumSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/DoWhilePrintCounter.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/DoWhilePrintCounter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/FIndLargestFromArray.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/FIndLargestFromArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/ForLoopPrintCounter.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/ForLoopPrintCounter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/WhileLoopPrintCounter.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/WhileLoopPrintCounter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day4/FIndCharsCountInString.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day4/FIndCharsCountInString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day4/ReplaceValueInArrayAndString.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day4/ReplaceValueInArrayAndString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day5/FibonacciSequence.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day5/FibonacciSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day5/IsPalindrome.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day5/IsPalindrome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/Calculate.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/Calculate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/CalculateAreaAndPerimeterFromFigure.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/CalculateAreaAndPerimeterFromFigure.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/PrintMethod.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/PrintMethod.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClass.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/StaticClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClassMain.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/StaticClassMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/UtilityClass.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/UtilityClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Class.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/Get_Set_Class.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Main.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/Get_Set_Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SumOverloading.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/SumOverloading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SwitchStatement.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/SwitchStatement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomString.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day4/RandomString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomStringGenerator.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day4/RandomStringGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day1/TwoClasses.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day1/TwoClasses.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day1/TwoClassesClass.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day1/TwoClassesClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day4/RegexExtractValue.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day4/RegexExtractValue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day4/RegexMatchValue.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day4/RegexMatchValue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day5/ReplaceVowelsFromString.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ReplaceVowelsFromString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day5/UtilityClass.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/UtilityClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day5/ValidateIpAddress.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ValidateIpAddress.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day1/DoubleArray.java" afterPath="$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day1/DoubleArray.java" />
     </list>
     <ignored path="JavaFundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,28 +82,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RandomStringGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomStringGenerator.java">
+      <file leaf-file-name="BaseballGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="107" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="107" />
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#1385#1386#0" expanded="true" />
+                <element signature="e#1420#1421#0" expanded="true" />
+                <element signature="e#1478#1479#0" expanded="true" />
+                <element signature="e#1526#1527#0" expanded="true" />
+                <element signature="e#1563#1564#0" expanded="true" />
+                <element signature="e#1594#1595#0" expanded="true" />
+                <element signature="e#1644#1645#0" expanded="true" />
+                <element signature="e#1684#1685#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utilities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/Utilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoubleArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day1/DoubleArray.java">
+      <file leaf-file-name="BaseballMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SequentialExtesion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/SequentialExtesion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ArrayRegex.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day3/ArrayRegex.java">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ArrayRegex.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
@@ -63,91 +141,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Clothing.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Clothing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AreaAndVolume.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/AreaAndVolume.java">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/AreaAndVolume.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Calculate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/Calculate.java">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/Calculate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-              <folding>
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#1226#1227#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1342#1343#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
-                <element signature="e#1436#1437#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.5633188">
+              <caret line="44" column="67" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="67" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="CalculateAreaAndPerimeterFromFigure.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/CalculateAreaAndPerimeterFromFigure.java">
+        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/CalculateAreaAndPerimeterFromFigure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.032419">
-              <caret line="18" column="1" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.24017467">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Trousers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Trousers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Returnable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Returnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="111" column="1" selection-start-line="7" selection-start-column="4" selection-end-line="111" selection-end-column="1" />
-              <folding>
-                <element signature="e#244#245#0" expanded="false" />
-                <element signature="e#272#273#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,17 +198,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/thd/automation/week2/day1/UtilityClass.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/week2/day1/PrintMethod.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/FundamentaJava/week1/day4/ReplaceValueInArrayAndString.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/FundamentaJava/week1/week2/day2/OverloadingConstructors.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/week2/day2/OverloadingConstructors.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/Methods_Encapsulation_Conditionals/day2/OverloadingConstructors.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingConstructors.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/StringCompare.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Sum.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SwitchStatement.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Main.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Class.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/RandomNumber.java" />
@@ -197,7 +206,6 @@
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomNumber.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day1/TwoClassesClass.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day1/TwoClasses.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClass.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClassMain.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SumOverloading.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java" />
@@ -209,8 +217,6 @@
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/PrintGrade.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/WhileLoopPrintCounter.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/DoWhilePrintCounter.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/ArrayNumSum.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/FIndLargestFromArray.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day4/ReplaceValueInArrayAndString.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day5/ValidateIpAddress.java" />
@@ -227,9 +233,22 @@
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Returnable.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Trousers.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Clothing.java" />
-        <option value="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/AreaAndVolume.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/CalculateAreaAndPerimeterFromFigure.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/ArrayNumSum.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/DoWhilePrintCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day5/FibonacciSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day5/IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClass.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SwitchStatement.java" />
         <option value="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/AreaAndVolume.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Fundamentals_Java/day3/ArrayNumSum.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/ArrayNumSum.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/Utilities.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballMain.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballGame.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ArrayRegex.java" />
+        <option value="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/CalculateAreaAndPerimeterFromFigure.java" />
       </list>
     </option>
   </component>
@@ -239,9 +258,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="x" value="1440" />
+    <option name="y" value="-180" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -268,6 +288,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.thd.automation.training.com.thd.automation.training.java_fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -299,10 +348,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -318,15 +363,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterfacesExceptionsAndDeployments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day2" />
+              <option name="myItemId" value="java_fundamentals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -340,27 +377,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterfacesExceptionsAndDeployments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day1" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,25 +392,30 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fbm-ups-automation-impl1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49310344" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3" />
+      <recent name="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5" />
+      <recent name="$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals" />
       <recent name="$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4" />
       <recent name="$PROJECT_DIR$/src/com/thd/automation/FundamentaJava/week1" />
-      <recent name="$PROJECT_DIR$/src/com/thd/automation/FundamentaJava" />
-      <recent name="$PROJECT_DIR$/src/com/thd/automation/week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculateAreaAndPerimeterFromFigure">
-    <configuration default="false" name="ReplaceVowelsFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.BaseballMain">
+    <configuration default="false" name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.thd.automation.training.Objects_Classes.day5.*" />
+          <option name="PATTERN" value="com.thd.automation.training.Methods_Encapsulation_Conditionals.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.Objects_Classes.day5.ReplaceVowelsFromString" />
+      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.Methods_Encapsulation_Conditionals.day2.SwitchStatement" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -400,54 +428,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SequentialExtesion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RandomStringGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.thd.automation.training.DataManipulationAndInheritance.Day2.*" />
+          <option name="PATTERN" value="com.thd.automation.training.Methods_Encapsulation_Conditionals.day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.DataManipulationAndInheritance.Day2.SequentialExtesion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaFundamentals" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DoubleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.thd.automation.training.DataManipulationAndInheritance.Day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.DataManipulationAndInheritance.Day1.DoubleArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaFundamentals" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ArrayRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.thd.automation.training.DataManipulationAndInheritance.Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.DataManipulationAndInheritance.Day3.ArrayRegex" />
+      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.Methods_Encapsulation_Conditionals.day4.RandomStringGenerator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -468,6 +456,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.InterfacesExceptionsAndDeployments.Day2.CalculateAreaAndPerimeterFromFigure" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaFundamentals" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CalculateAreaAndPerimeterFromFigure (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.thd.automation.training.com.thd.automation.training.java_fundamentals.InterfacesExceptionsAndDeployments.Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.com.thd.automation.training.java_fundamentals.InterfacesExceptionsAndDeployments.Day2.CalculateAreaAndPerimeterFromFigure" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaFundamentals" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BaseballMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.thd.automation.training.com.thd.automation.training.java_fundamentals.final_project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.thd.automation.training.com.thd.automation.training.java_fundamentals.final_project.BaseballMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -918,19 +946,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReplaceVowelsFromString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SequentialExtesion" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DoubleArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ArrayRegex" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CalculateAreaAndPerimeterFromFigure" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SwitchStatement" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RandomStringGenerator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CalculateAreaAndPerimeterFromFigure" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CalculateAreaAndPerimeterFromFigure (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BaseballMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CalculateAreaAndPerimeterFromFigure" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ArrayRegex" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DoubleArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SequentialExtesion" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReplaceVowelsFromString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BaseballMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CalculateAreaAndPerimeterFromFigure (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CalculateAreaAndPerimeterFromFigure" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RandomStringGenerator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SwitchStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -959,7 +987,9 @@
       <workItem from="1478640147294" duration="22815000" />
       <workItem from="1479229485169" duration="5981000" />
       <workItem from="1479316413214" duration="4386000" />
-      <workItem from="1479403066108" duration="4913000" />
+      <workItem from="1479403066108" duration="6593000" />
+      <workItem from="1479830210432" duration="16455000" />
+      <workItem from="1480341923827" duration="5236000" />
     </task>
     <task id="LOCAL-00001" summary="Add Weeks 1 Exercises">
       <created>1477613124476</created>
@@ -1063,14 +1093,20 @@
       <option name="project" value="LOCAL" />
       <updated>1479316460346</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adding week 4, day 3-4">
+      <created>1479489369093</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1479489369093</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101597000" />
+    <option name="totallyTimeSpent" value="124968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <frame x="1440" y="-180" width="1920" height="1080" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1080,16 +1116,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38626608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.273374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2353362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31895635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3171857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31616595" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1118,19 +1154,20 @@
     <MESSAGE value="Adding week 3, day 1" />
     <MESSAGE value="Adding week 3, day 4" />
     <MESSAGE value="Adding week 4, day 1-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding week 4, day 1-2" />
+    <MESSAGE value="Adding week 4, day 3-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding week 4, day 3-4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day3/ArrayRegex.java</url>
+          <url>file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ArrayRegex.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1139,327 +1176,329 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/WhileLoopPrintCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/DoWhilePrintCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/ArrayNumSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/FIndLargestFromArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/PrintGrade.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/PrintGrade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/FindArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/UtilityClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/ReplaceCharInString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/ReplaceCharInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11568123">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/MathMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09640103">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/PrintMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3470437">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day5/FibonacciSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SwitchStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/Get_Set_Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day5/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day1/TwoClasses.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day1/TwoClasses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day1/StaticClassMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/SumOverloading.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/SumOverloading.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/OverloadingMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/MathCalculations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day2/PrintGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/ForLoopPrintCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/WhileLoopPrintCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/DoWhilePrintCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/ArrayNumSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day3/FIndLargestFromArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day4/FIndCharsCountInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="1" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Fundamentals_Java/day4/ReplaceValueInArrayAndString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="92" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day5/ValidateIpAddress.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ValidateIpAddress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day4/RegexExtractValue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day4/RegexExtractValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="35" selection-start-line="20" selection-start-column="8" selection-end-line="21" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day4/RegexMatchValue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day4/RegexMatchValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day1/TwoClassesClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day1/TwoClassesClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#180#181#0" expanded="false" />
-            <element signature="e#205#206#0" expanded="false" />
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="1" selection-start-line="7" selection-start-column="4" selection-end-line="111" selection-end-column="1" />
-          <folding>
-            <element signature="e#244#245#0" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day5/ReplaceVowelsFromString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ReplaceVowelsFromString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72319204">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/shirt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0124688">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/SequentialExtesion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74812967">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day2/store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68827933">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Objects_Classes/day5/UtilityClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/UtilityClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27182046">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/Methods_Encapsulation_Conditionals/day4/RandomStringGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/DoWhilePrintCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="107" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="107" />
-          <folding />
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day1/DoubleArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/FIndLargestFromArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/ForLoopPrintCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/WhileLoopPrintCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="5" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day4/FIndCharsCountInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="13" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day4/ReplaceValueInArrayAndString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23940149">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day5/FibonacciSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day5/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28678304">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/FindArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/MathMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/PrintMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/UtilityClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4862843">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/StaticClassMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="19" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day1/StaticClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77805483">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/Get_Set_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/SwitchStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59850377">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day2/Get_Set_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25187033">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day4/RandomString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Methods_Encapsulation_Conditionals/day4/RandomStringGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="12" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day1/DoubleArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/shirt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/PrintGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day2/MathCalculations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/java_basics/day3/ArrayNumSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/JavaFundamentals_jar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/DataManipulationAndInheritance/Day3/ArrayRegex.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#1563#1564#0" expanded="true" />
+            <element signature="e#1594#1595#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/final_project/BaseballMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day2/SequentialExtesion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/Objects_Classes/day5/ArrayRegex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
@@ -1467,69 +1506,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Returnable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/AreaAndVolume.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Trousers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/Calculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day1/Clothing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.5633188">
+          <caret line="44" column="67" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/AreaAndVolume.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/com/thd/automation/training/java_fundamentals/DataManipulationAndInheritance/Day3/CalculateAreaAndPerimeterFromFigure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.24017467">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1436#1437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thd/automation/training/InterfacesExceptionsAndDeployments/Day2/CalculateAreaAndPerimeterFromFigure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.032419">
-          <caret line="18" column="1" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFundamentals:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49310344" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49310344" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49310344" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaFundamentals</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49310344" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49310344" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
