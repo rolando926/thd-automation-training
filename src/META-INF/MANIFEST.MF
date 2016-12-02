@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.thd.automation.training.com.thd.automation.training.ja
+ va_fundamentals.Interfaces_Exceptions_Deployments.Day3.MainClass
+
