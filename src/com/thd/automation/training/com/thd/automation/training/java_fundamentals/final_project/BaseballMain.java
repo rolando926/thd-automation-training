@@ -20,7 +20,7 @@ public class BaseballMain {
         do {
             game1.generateGame();
             counter++;
-        }while(counter<1000);
+        }while(counter<1);
         //game1.generateChampionship();
 
         final long endTime = System.currentTimeMillis();
